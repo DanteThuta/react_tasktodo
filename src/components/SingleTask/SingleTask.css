@@ -17,6 +17,7 @@
 
   cursor: pointer;
   color: white;
+  background-color: black;
 }
 
 /* for data output */
@@ -34,6 +35,7 @@
 .user-task {
   flex-direction: column;
   margin: 2rem 0;
+  color: black;
 }
 
 .user-taskheading {
@@ -51,7 +53,7 @@
 }
 
 .user-taskinfo {
-  color: white;
+  /* color: white; */
 }
 
 .user-taskinfo-label {

@@ -1,7 +1,8 @@
 .add-container {
   margin: 2rem auto;
   padding: 2rem 0;
-  background-color: #91a7ff;
+  /* background-color: #91a7ff; */
+  background-color: black;
   width: 30%;
 
   /* border: 1px solid #e599f7; */
@@ -70,19 +71,18 @@
 }
 
 .btn-type {
-  background-color: #834e56;
+  background-color: black;
 
   margin-top: 1rem;
-  padding: 1rem 2rem;
+  padding: 0 2rem;
 
-  border: none;
+  border: 1px solid white;
   border-radius: 10px;
 
   cursor: pointer;
 
   transition: all 0.5s;
   color: white;
-  font-weight: bold;
 }
 
 .btn-type:hover {
