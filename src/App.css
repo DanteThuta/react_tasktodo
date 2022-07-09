@@ -1,5 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Gulzar&family=Rubik&family=Titillium+Web&display=swap");
+
+* {
+  font-family: "Gulzar", serif;
+  background-color: #3b4252;
+}
 .App {
   text-align: center;
+  background-color: #3b4252;
+
+  height: fit-content;
+
+  font-family: "Gulzar", serif;
 }
 
 .App-logo {

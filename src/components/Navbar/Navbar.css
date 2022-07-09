@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #8e4585;
+  padding: 1rem 2rem;
+}
+
+.navbar h3 {
+  font-size: 1.5rem;
+  background-color: #8e4585;
+
+  color: white;
+
+  width: 50%;
+
+  margin: 0 auto;
+}
