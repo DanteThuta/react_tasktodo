@@ -1,9 +1,10 @@
 .add-container {
   margin: 2rem auto;
   padding: 2rem 0;
+  background-color: #91a7ff;
   width: 30%;
 
-  border: 1px solid #e599f7;
+  /* border: 1px solid #e599f7; */
   border-radius: 10px;
 }
 .form-type {
